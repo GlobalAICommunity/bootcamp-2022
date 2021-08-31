@@ -1,1 +1,10 @@
-# global-ai-bootcamp-2021
+# Global AI Bootcamp 2022
+14 and 15 January 2022
+
+## Event format
+
+## Organizers information
+
+## Keynote
+
+## Workshops / Hands-on Labs / Presentations
