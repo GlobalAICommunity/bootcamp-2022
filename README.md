@@ -1,5 +1,5 @@
 # Global AI Bootcamp 2022
-14 and 15 January 2022
+Friday 14 and Saturday 15 January 2022
 
 ## Event format
 
