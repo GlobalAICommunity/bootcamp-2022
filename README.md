@@ -16,7 +16,7 @@ The event is all about being together, in-person or virtual, to learn about ever
 
 ### Support provided
 - Azure Passes
-- 2 Workshops
+- 3 Workshops
 - Global Keynote 
 - Streaming Support
 - MeetUp Pro subscription
@@ -35,7 +35,7 @@ The event is all about being together, in-person or virtual, to learn about ever
 ## Content
 
 ### Keynote
--You can watch the keynote on Youtube [here](https://youtu.be/C0MF9-hsPUQ) or download it [here](https://github.com/GlobalAICommunity/bootcamp-2022/tree/main/Assets)
+-You can watch the keynote on YouTube [here](https://youtu.be/C0MF9-hsPUQ) or download it [here](https://communityassets.blob.core.windows.net/globalaibootcamp/Global%20AI%20Bootcamp%202022%20-%20keynote.mp4).
 
 
 ### Workshops / Hands-on Labs / Presentations
@@ -55,3 +55,4 @@ At the end of this hands-on lab you have gone through the complete life-cycle of
 
 [Workshop content](https://global-ai-community.gitbook.io/global-ai-bootcamp-2022/azure-machine-learning/introduction)
 
+#### Workshop 3: Will be added soon!
