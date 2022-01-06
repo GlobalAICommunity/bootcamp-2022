@@ -7,10 +7,10 @@ Januari 14 until March 31
 [Logos and artwork](https://github.com/GlobalAICommunity/bootcamp-2022/tree/main/Assets)  
 [Event page](https://globalai.community/bootcamp-2022/)   
 [Organizers Information](https://globalai.community/bootcamp-2022/information/organizers/)
-[Workshops](https://global-ai-community.gitbook.io/global-ai-bootcamp-2022/)
+[Workshops](https://workshops.globalai.community)
 
 ## Event format
-The event is all about being together, in-person or virtual, to learn about everything about Artificial intelligence.
+The event is all about being together, in-person or virtual, to learn everything about Artificial intelligence.
 
 ## Organizers information
 
@@ -25,7 +25,7 @@ The event is all about being together, in-person or virtual, to learn about ever
 - [Login](https://globalai.community/login) or [Create](https://globalai.community/register) an account on the Global AI Website
 - Create a local Community with the city or country name you are in.
 - Create a new event
-- [Join the Global AI Community Slack](https://join.slack.com/t/globalaicommunity/shared_invite/zt-vk629pxt-4zfKPcrGjx9fZ8~0OyEjCQ)
+- [Join the Global AI Community Slack](https://join.slack.com/t/globalaicommunity/shared_invite/zt-118obd1f8-vZ8jA~OICzTGkWnFF4vIzQ)
 
 **If applicable**
 - [Request Azure Passes](https://forms.office.com/Pages/ResponsePage.aspx?id=AvBL7IdJCkKnJbzCu9VDmWP6fxHD5kRAtAGhS9Oi48tUNVJQQTNOUDhLSlkyR01CV0lRNEtaWkdZUy4u)
