@@ -1,13 +1,13 @@
 # Global AI Bootcamp 2022
-Januari 14 until March 31
+Januari 14 until March 31.
 
 *In this GitHub repository you find all the information around the Global AI Bootcamp 2022.*
 
 ### Resources:
-[Logos and artwork](https://github.com/GlobalAICommunity/bootcamp-2022/tree/main/Assets)  
-[Event page](https://globalai.community/bootcamp-2022/)   
-[Organizers Information](https://globalai.community/bootcamp-2022/information/organizers/)
-[Workshops](https://workshops.globalai.community)
+- [Logos and artwork](https://github.com/GlobalAICommunity/bootcamp-2022/tree/main/Assets). 
+- [Event page](https://globalai.community/bootcamp-2022/).
+- [Organizers Information](https://globalai.community/bootcamp-2022/information/organizers/).
+- [Workshops](https://workshops.globalai.community).
 
 ## Event format
 The event is all about being together, in-person or virtual, to learn everything about Artificial intelligence.
@@ -22,24 +22,22 @@ The event is all about being together, in-person or virtual, to learn everything
 - MeetUp Pro subscription
 
 ### How to join
-- [Login](https://globalai.community/login) or [Create](https://globalai.community/register) an account on the Global AI Website
+- [Login](https://globalai.community/login) or [Create](https://globalai.community/register) an account on the Global AI Website.
 - Create a local Community with the city or country name you are in.
-- Create a new event
-- [Join the Global AI Community Slack](https://join.slack.com/t/globalaicommunity/shared_invite/zt-118obd1f8-vZ8jA~OICzTGkWnFF4vIzQ)
+- Create a new event.
+- [Join the Global AI Community Slack](https://join.slack.com/t/globalaicommunity/shared_invite/zt-118obd1f8-vZ8jA~OICzTGkWnFF4vIzQ).
 
 **If applicable**
-- [Request Azure Passes](https://forms.office.com/Pages/ResponsePage.aspx?id=AvBL7IdJCkKnJbzCu9VDmWP6fxHD5kRAtAGhS9Oi48tUNVJQQTNOUDhLSlkyR01CV0lRNEtaWkdZUy4u)
-- [Request event support](mailto:hq@globalai.community)
-- [Ask a question](mailto:hq@globalai.community)
+- [Request Azure Passes](https://forms.office.com/Pages/ResponsePage.aspx?id=AvBL7IdJCkKnJbzCu9VDmWP6fxHD5kRAtAGhS9Oi48tUNVJQQTNOUDhLSlkyR01CV0lRNEtaWkdZUy4u).
+- [Request event support](mailto:hq@globalai.community).
+- [Ask a question](mailto:hq@globalai.community).
 
 ## Content
 
 ### Keynote
 -You can watch the keynote on YouTube [here](https://youtu.be/C0MF9-hsPUQ) or download it [here](https://communityassets.blob.core.windows.net/globalaibootcamp/Global%20AI%20Bootcamp%202022%20-%20keynote.mp4).
 
-
 ### Workshops / Hands-on Labs / Presentations
-
 
 #### Workshop 1: The Azure Function that can see
 Could have imagined a few years ago that you would be able to create an Azure Function that can tell you what is on your images? Good news, this is now possible with a few lines of code and some sample images.
