@@ -35,7 +35,7 @@ The event is all about being together, in-person or virtual, to learn everything
 ## Content
 
 ### Keynote
--You can watch the keynote on YouTube [here](https://youtu.be/C0MF9-hsPUQ) or download it [here](https://communityassets.blob.core.windows.net/globalaibootcamp/Global%20AI%20Bootcamp%202022%20-%20keynote.mp4).
+-You can watch the keynote on [YouTube](https://youtu.be/C0MF9-hsPUQ) or download it [here](https://communityassets.blob.core.windows.net/globalaibootcamp/Global%20AI%20Bootcamp%202022%20-%20keynote.mp4).
 
 ### Workshops / Hands-on Labs / Presentations
 
