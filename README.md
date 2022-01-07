@@ -7,7 +7,7 @@ Januari 14 until March 31.
 - [Logos and artwork](https://github.com/GlobalAICommunity/bootcamp-2022/tree/main/Assets)
 - [Event page](https://globalai.community/bootcamp-2022/)
 - [Organizers Information](https://globalai.community/bootcamp-2022/information/organizers/)
-- [Workshops](gaib-ws.globalai.community)
+- [Workshops](https://workshops.globalai.community/)
 
 ## Event format
 The event is all about being together, in-person or virtual, to learn everything about Artificial intelligence.
@@ -44,13 +44,21 @@ Could have imagined a few years ago that you would be able to create an Azure Fu
 In this hands-on lab you are going to train a ONNX classification Model with the Custom Vision service that will run in an Azure Function. The language of choice is Python and you will use Visual Studio code as the editor and the Azure CLI to manage and create your Azure Resources.
 At the end of the lab you have a serverless API that can classify Images and learned about how to use the Azure Custom Vision Python SDK to train an ONNX model.
 
-[Workshop content](gaib-ws.globalai.community/the-azure-function-that-can-see/introduction)
+[Workshop content](https://workshops.globalai.community/the-azure-function-that-can-see/introduction)
 
-#### Workshop 2: Train and deploy a PyTorch model using the Azure Machine Learning platform.
+#### Workshop 2: Cognitive Search
+In this hands-on lab you are going to work with Cognitive Search.
+
+[Workshop content](https://workshops.globalai.community/cognitive-services/lab-1-cognitive-search)
+
+#### Workshop 3: Bot Composer
+In this hands-on lab you are going to work with Bot Composer.
+
+[Workshop content](https://workshops.globalai.community/cognitive-services/lab-2-bot-composer)
+
+#### Workshop 4: Train and deploy a PyTorch model using the Azure Machine Learning platform.
 In this hands-on lab you are going to build and deploy your own trained vision model to a highly scalable endpoint using Azure Machine Learning.
 You start with setting up your cloud workspace and learn how to manage your data and make it reusable. Next you will train a PyTorch model using the transfer learning approach and finally you deploy the model wrapped in an API in a managed endpoint.
 At the end of this hands-on lab you have gone through the complete life-cycle of a model, from data to deployment using the Azure Machine Learning platform.
 
-[Workshop content](gaib-ws.globalai.community/azure-machine-learning/introduction)
-
-#### Workshop 3: Will be added soon!
+[Workshop content](https://workshops.globalai.community/azure-machine-learning/introduction)
