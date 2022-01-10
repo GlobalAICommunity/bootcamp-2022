@@ -16,7 +16,7 @@ The event is all about being together, in-person or virtual, to learn everything
 
 ### Support provided
 - Azure Passes
-- 3 Workshops
+- 4 Workshops
 - Global Keynote 
 - Streaming Support
 - MeetUp Pro subscription
