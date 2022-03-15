@@ -8,6 +8,7 @@ Januari 14 until March 31.
 - [Event page](https://globalai.community/bootcamp-2022/)
 - [Organizers Information](https://globalai.community/bootcamp-2022/information/organizers/)
 - [Workshops](https://workshops.globalai.community/)
+- [Speakers Presentation](/PPT/)
 
 ## Event format
 The event is all about being together, in-person or virtual, to learn everything about Artificial intelligence.
